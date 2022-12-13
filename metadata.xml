@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>Guaranteed Start For Greed Mode</name>
+    <directory>guaranteed start for greed mode</directory>
+    <id>2900812663</id>
+    <description>Guarantees an item with a quality of 3 or more in the first treasure room and silver treasure room you enter in greed mode.</description>
+    <version>1.2</version>
+    <visibility>Public</visibility>
+    <tag id="Lua"/>
+    <tag id="Tweaks"/>
+</metadata>
