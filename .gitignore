@@ -1,2 +1,8 @@
+# Visual Studio Code cache/options directory
+.vscode/
+
+# Workspace settings
+.luarc.json
+
+# Data files
 *.dat
-*.[Dd][Ss]_[Ss]tore

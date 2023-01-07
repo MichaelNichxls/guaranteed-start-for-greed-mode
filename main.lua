@@ -4,7 +4,7 @@ GUARANTEED_START_FOR_GREED_MODE = RegisterMod("Guaranteed Start For Greed Mode",
 
 local mod = GUARANTEED_START_FOR_GREED_MODE
 
-mod.config = require(".\\config")
+mod.config = require([[.\config]])
 mod.state = {
     hasPlayerVisited = {
         silver = false,
@@ -89,5 +89,3 @@ end
 
 mod:AddCallback(ModCallbacks.MC_POST_GAME_STARTED, mod.init)
 mod:AddCallback(ModCallbacks.MC_PRE_GAME_EXIT, mod.save)
-
-Isaac.DebugString(type(mod.config.rollableItems))

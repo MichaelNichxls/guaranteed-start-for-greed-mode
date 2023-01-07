@@ -3,8 +3,21 @@
     <name>Guaranteed Start For Greed Mode</name>
     <directory>guaranteed start for greed mode</directory>
     <id>2900812663</id>
-    <description>Guarantees an item with a quality of 3 or more in the first treasure room and silver treasure room you enter in greed mode.</description>
-    <version>1.3</version>
+    <description>[h1][b]Features[/b][/h1]
+[list]
+    [*]Items guaranteed to have a quality of 3 or more in the first treasure room [i]and[/i] silver treasure room you enter in greed mode
+    [*]Mod configurations that're located in the config.lua file in this mod's folder (The Mod Config Menu mod never worked for me, so, until then, you will have to configure this mod through config.lua)
+[/list]
+
+[h1][b]Requirements[/b][/h1]
+[list]
+    [*]Must have the Repentance DLC
+    [*]Game mode must be Greed or Greedier Mode
+[/list]
+
+[h1][b]Credits[/b][/h1]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=1264802784][b]Guaranteed Start[/b][/url]: The original mod serving as a base for this mod.</description>
+    <version>1.5</version>
     <visibility>Public</visibility>
     <tag id="Lua"/>
     <tag id="Tweaks"/>

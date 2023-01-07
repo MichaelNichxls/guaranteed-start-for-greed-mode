@@ -1,3 +1,5 @@
+-- Should be saved for when mod updates
+
 ---Mod configuration options.
 local config = {
     ---Set to 'true' to use an item list instead of filtering by quality.
@@ -37,7 +39,7 @@ local config = {
 
     ---Set to 'true' to roll for items from the greed treasure room item pool in a silver treasure room instead.
     ---Only works if 'useItemList' is 'false'.
-    useTreasureRoomPoolForSilverRoom = true
+    useTreasureRoomPoolForSilverRoom = false
 }
 
 return config
